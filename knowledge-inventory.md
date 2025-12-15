@@ -1,5 +1,13 @@
 # Knowledge Inventory — «Вкусный Кофе»
 
+## Стартовая навигация
+- [Главная страница базы](/README.md)
+- [Меню на русском](/ru/README.md)
+- [По ролям](/ru/po-rolyam/README.md)
+- [По процессам](/ru/po-protsessam/README.md)
+- [По разделам](/ru/po-razdelam/README.md)
+- [Светофор качества](/ru/kontrol-kachestva/README.md)
+
 ## Дерево разделов
 - system/ — системные описания, глоссарий и культура.
 - training/ — обучение и практические материалы для команды.
@@ -46,6 +54,8 @@
 | Срок продукции | operations | бариста | источник | ops/checklists/product-shelf-life.xlsx | [открыть](ops/checklists/product-shelf-life.xlsx) |
 | Составы продукции | operations | бариста | основной | ops/checklists/product-compositions.md | [открыть](ops/checklists/product-compositions.md) |
 | Составы продукции | operations | бариста | источник | ops/checklists/product-compositions.xlsx | [открыть](ops/checklists/product-compositions.xlsx) |
+| Приемка поставок | operations | бариста | процесс | ops/processes/priemka-postavok.md | [открыть](ops/processes/priemka-postavok.md) |
+| Инвентаризация | operations | управляющий | процесс | ops/processes/inventarizatsiya.md | [открыть](ops/processes/inventarizatsiya.md) |
 | Чек-лист раннера — Луговая | operations | раннер | основной | ops/checklists/runner-checklist-lugovaya.md | [открыть](ops/checklists/runner-checklist-lugovaya.md) |
 | Чек-лист раннера — Луговая | operations | раннер | источник | ops/checklists/runner-checklist-lugovaya.xlsx | [открыть](ops/checklists/runner-checklist-lugovaya.xlsx) |
 | Чек-лист раннера — Самокиша | operations | раннер | основной | ops/checklists/runner-checklist-samokisha.md | [открыть](ops/checklists/runner-checklist-samokisha.md) |
